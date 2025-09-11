@@ -2,9 +2,9 @@
     "name": "roberts/laravel-foundry",
     "description": "Laravel package to manage monorepo functions of Foundry",
     "keywords": [
-        "Roberts",
         "laravel",
-        "laravel-foundry"
+        "laravel package",
+        "foundry"
     ],
     "homepage": "https://github.com/roberts/laravel-foundry",
     "license": "MIT",
@@ -17,6 +17,7 @@
     ],
     "require": {
         "php": "^8.4",
+        "roberts/support": "^12.0",
         "spatie/laravel-package-tools": "^1.16",
         "illuminate/contracts": "^11.0||^12.0"
     },
